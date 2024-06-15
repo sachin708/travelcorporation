@@ -14,7 +14,7 @@ This is a simple To-Do List application built with React and Redux. It allows us
 
 To run this project locally, follow these steps:
 
-1. Clone the repository:https://github.com/sachin708/Thomas_cook.git
+1. Clone the repository:https://github.com/sachin708/travelcorporation.git
 2. cd Frontned
 3. npm install
 4. npm ru dev
